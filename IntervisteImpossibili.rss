@@ -37,7 +37,6 @@
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia600600.us.archive.org/22/items/ImpossibleInterview-Planck/podcast%20planck.mp3" type="audio/mpeg" length="12126589"/>
       <itunes:duration>12:38</itunes:duration>
-      <media:keywords>Max Planck, Physics</media:keywords>
     </item>
 
     <item>
@@ -52,7 +51,6 @@
       <category>audio/opensource_audio</category>
       <itunes:duration>10:32</itunes:duration>
       <enclosure url="https://ia601407.us.archive.org/12/items/podcast-oppenheimer/podcast%20oppenheimer.mp3" type="audio/mpeg" length="10918106"/>
-      <media:keywords>Science, Physics</media:keywords>
     </item>
     
     <item>
@@ -66,7 +64,6 @@
       <pubDate>Thu, 08 Aug 2024 09:58:54 GMT</pubDate>
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia601508.us.archive.org/28/items/podcast-landau/podcast%20landau.mp3" type="audio/mpeg" length="10810086"/>
-      <media:keywords>Science, Physics</media:keywords>
     </item>
   </channel>
 </rss>
