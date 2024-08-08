@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <link>https://www.caffescienza.it/divulgazione-e-formazione/interviste-impossibili</link>
     <title>Le interviste impossibili ai fisici del passato</title>
@@ -64,4 +63,4 @@
       <media:keywords>Science, Physics</media:keywords>
     </item>
   </channel>
-</rss>
+</xml>
