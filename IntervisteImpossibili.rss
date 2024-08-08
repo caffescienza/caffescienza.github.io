@@ -27,7 +27,10 @@
 
     <item>
       <title>Intervista impossibile a Max Planck</title>
-      <description><img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=ImpossibleInterview-Planck&mediatype=audio&collection=opensource_audio"/><p>Intervista impossibile a Max Planck. RadioMoka S8E07 25 novembre 2017 (voci di Franco Bagnoli e Mirko Duradoni). Caffè-Scienza Firenze  .</p><p>This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3</p></description>
+      <description>
+        <img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=ImpossibleInterview-Planck"/>
+          Intervista impossibile a Max Planck. RadioMoka S8E07 25 novembre 2017 (voci di Franco Bagnoli e Mirko Duradoni). Caff&egrave;-Scienza Firenze
+      </description>
       <link>https://archive.org/details/ImpossibleInterview-Planck</link>
       <guid>https://archive.org/details/ImpossibleInterview-Planck</guid>
       <pubDate>Wed, 07 Aug 2024 14:48:29 GMT</pubDate>
@@ -41,7 +44,10 @@
 
     <item>
       <title>Intervista impossibile a Robert Oppenheimer</title>
-      <description><img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=podcast-oppenheimer&mediatype=audio&collection=opensource_audio"/><p>Intervista impossibile a Robert Oppenheimer RadioMoka S8E06 18 novembre2017 (Voci di Giovanna Pacini e Franco Bagnoli). Caffè-Scienza Firenze.</p><p>This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, VBR MP3</p></description>
+      <description>
+        <img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=podcast-oppenheimer
+        Intervista impossibile a Robert Oppenheimer RadioMoka S8E06 18 novembre 2017 (Voci di Giovanna Pacini e Franco Bagnoli). Caff&egrave;-Scienza Firenze.
+      </description>
       <link>https://archive.org/details/podcast-oppenheimer</link>
       <guid>https://archive.org/details/podcast-oppenheimer</guid>
       <pubDate>Thu, 08 Aug 2024 08:36:56 GMT</pubDate>
@@ -55,7 +61,10 @@
     
     <item>
       <title>Intervista impossibile a Lev Landau</title>
-      <description><img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=podcast-landau&mediatype=audio&collection=opensource_audio"/><p>Intervista impossibile a Lev Landau RadioMoka S8E03 28 ottobre 2017 (voci di Giovanna Pacini e Giovanni Spaventa). Caffè-Scienza Firenze.</p><p>This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3</p></description>
+      <description>
+        <img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=podcast-landau
+        Intervista impossibile a Lev Landau RadioMoka S8E03 28 ottobre 2017 (voci di Giovanna Pacini e Giovanni Spaventa). Caff&egrave;-Scienza Firenze.
+      </description>
       <link>https://archive.org/details/podcast-landau</link>
       <guid>https://archive.org/details/podcast-landau</guid>
       <pubDate>Thu, 08 Aug 2024 09:58:54 GMT</pubDate>
