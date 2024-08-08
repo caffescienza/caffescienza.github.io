@@ -35,7 +35,6 @@
       <link>https://archive.org/details/ImpossibleInterview-Planck</link>
       <guid>https://archive.org/details/ImpossibleInterview-Planck</guid>
       <pubDate>Wed, 07 Aug 2024 14:48:29 GMT</pubDate>
-      <creativeCommons:license>https://creativecommons.org/licenses/by-nd/4.0/</creativeCommons:license>
       <category>audio/opensource_audio</category>
       <media:content url="https://archive.org/download/ImpossibleInterview-Planck/format=VBR+MP3&ignore=x.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <enclosure url="https://archive.org/download/ImpossibleInterview-Planck/format=VBR+MP3&ignore=x.mp3" type="audio/mpeg" length="12126589"/>
@@ -52,7 +51,6 @@
       <link>https://archive.org/details/podcast-oppenheimer</link>
       <guid>https://archive.org/details/podcast-oppenheimer</guid>
       <pubDate>Thu, 08 Aug 2024 08:36:56 GMT</pubDate>
-      <creativeCommons:license>https://creativecommons.org/licenses/by-nd/4.0/</creativeCommons:license>
       <category>audio/opensource_audio</category>
       <media:content url="https://archive.org/download/podcast-oppenheimer/format=VBR+MP3&ignore=x.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <itunes:duration>10:32</itunes:duration>
@@ -64,13 +62,11 @@
       <title>Intervista impossibile a Lev Landau</title>
       <itunes:image href="https://caffescienza.github.io/Landau.jpg" />
       <description>
-        <img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/img/podcast-landau" />
         Intervista impossibile a Lev Landau RadioMoka S8E03 28 ottobre 2017 (voci di Giovanna Pacini e Giovanni Spaventa). Caffè-Scienza Firenze.
       </description>
       <link>https://archive.org/details/podcast-landau</link>
       <guid>https://archive.org/details/podcast-landau</guid>
       <pubDate>Thu, 08 Aug 2024 09:58:54 GMT</pubDate>
-      <creativeCommons:license>https://creativecommons.org/licenses/by-nc/4.0/</creativeCommons:license>
       <category>audio/opensource_audio</category>
       <media:content url="https://archive.org/download/podcast-landau/format=VBR+MP3&ignore=x.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <enclosure url="https://archive.org/download/podcast-landau/format=VBR+MP3&ignore=x.mp3" type="audio/mpeg" length="10810086"/>
