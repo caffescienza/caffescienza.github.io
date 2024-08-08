@@ -1,16 +1,17 @@
 <rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <link>https://archive.org/</link>***
-    <title>Le interviste impossibili ai fisic del passato</title>
+    <link>https://www.caffescienza.it/divulgazione-e-formazione/interviste-impossibili</link>
+    <title>Le interviste impossibili ai fisici del passato</title>
     <description>Tutto quello che avreste voluto sapere della fisica e dei fisici ma che non avete mai potuto chiedere perché il fisico in questione era già morto. </description>
     <webMaster>franco.bagnoli@caffescienza.it</webMaster>
     <pubDate>Wed, 07 Aug 2024 21:37:46 GMT</pubDate>
     <image>
-    <language>it-it</language>
-    <url>https://archive.org/images/glogo.png</url>
-    <title>Le interviste impossibili ai fisici del passato</title>
-    <link>https://archive.org/</link> ****
+      <language>it-it</language>
+      <url>https://lh6.googleusercontent.com/HUe7fN9JdEfSz0OEeVngmg8n0jOwC5j7U7kcSWPhno_lEChCi5vYB-vVqdBYHDsTASm1kZYBp0FvTzmolW4bWdcaJBHvY68C_x_i0TEE4MGmQuzzrx0Eau-iACKSfWIG9Q=w1280</url>
+      <title>Le interviste impossibili ai fisici del passato</title>
+      <link>https://www.caffescienza.it/divulgazione-e-formazione/interviste-impossibili</link>
     </image>
+    <itunes:image href="https://lh6.googleusercontent.com/HUe7fN9JdEfSz0OEeVngmg8n0jOwC5j7U7kcSWPhno_lEChCi5vYB-vVqdBYHDsTASm1kZYBp0FvTzmolW4bWdcaJBHvY68C_x_i0TEE4MGmQuzzrx0Eau-iACKSfWIG9Q=w1280"/>
     <itunes:category text="Science; Physics"/>
     <itunes:author>Franco Bagnoli</itunes:author>
     <itunes:owner>
