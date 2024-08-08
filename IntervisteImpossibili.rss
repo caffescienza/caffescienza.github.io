@@ -35,7 +35,6 @@
       <guid>https://archive.org/details/ImpossibleInterview-Planck</guid>
       <pubDate>Wed, 07 Aug 2024 14:48:29 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <media:content url="https://ia600600.us.archive.org/22/items/ImpossibleInterview-Planck/podcast%20planck.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <enclosure url="https://ia600600.us.archive.org/22/items/ImpossibleInterview-Planck/podcast%20planck.mp3" type="audio/mpeg" length="12126589"/>
       <itunes:duration>12:38</itunes:duration>
       <media:keywords>Max Planck, Physics</media:keywords>
@@ -51,7 +50,6 @@
       <guid>https://archive.org/details/podcast-oppenheimer</guid>
       <pubDate>Thu, 08 Aug 2024 08:36:56 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <media:content url="https://ia601407.us.archive.org/12/items/podcast-oppenheimer/podcast%20oppenheimer.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <itunes:duration>10:32</itunes:duration>
       <enclosure url="https://ia601407.us.archive.org/12/items/podcast-oppenheimer/podcast%20oppenheimer.mp3" type="audio/mpeg" length="10918106"/>
       <media:keywords>Science, Physics</media:keywords>
@@ -67,7 +65,6 @@
       <guid>https://archive.org/details/podcast-landau</guid>
       <pubDate>Thu, 08 Aug 2024 09:58:54 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <media:content url="https://ia601508.us.archive.org/28/items/podcast-landau/podcast%20landau.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128"/>
       <enclosure url="https://ia601508.us.archive.org/28/items/podcast-landau/podcast%20landau.mp3" type="audio/mpeg" length="10810086"/>
       <media:keywords>Science, Physics</media:keywords>
     </item>
