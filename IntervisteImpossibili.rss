@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <link>https://www.caffescienza.it/divulgazione-e-formazione/interviste-impossibili</link>
@@ -7,16 +8,17 @@
     <pubDate>Wed, 07 Aug 2024 21:37:46 GMT</pubDate>
     <image>
       <language>it-it</language>
-      <url>https://lh6.googleusercontent.com/HUe7fN9JdEfSz0OEeVngmg8n0jOwC5j7U7kcSWPhno_lEChCi5vYB-vVqdBYHDsTASm1kZYBp0FvTzmolW4bWdcaJBHvY68C_x_i0TEE4MGmQuzzrx0Eau-iACKSfWIG9Q=w1280</url>
+      <url>https://caffescienza.github.io/IntervisteImpossibili.jpg</url>
       <title>Le interviste impossibili ai fisici del passato</title>
       <link>https://www.caffescienza.it/divulgazione-e-formazione/interviste-impossibili</link>
     </image>
-    <itunes:image href="https://lh6.googleusercontent.com/HUe7fN9JdEfSz0OEeVngmg8n0jOwC5j7U7kcSWPhno_lEChCi5vYB-vVqdBYHDsTASm1kZYBp0FvTzmolW4bWdcaJBHvY68C_x_i0TEE4MGmQuzzrx0Eau-iACKSfWIG9Q=w1280"/>
+    <itunes:image href="https://caffescienza.github.io/IntervisteImpossibili.jpg"/>
     <itunes:category text="Science; Physics"/>
     <itunes:author>Franco Bagnoli</itunes:author>
     <itunes:owner>
       <itunes:email>franco.bagnoli@caffescienza.it</itunes:email>
     </itunes:owner>
+    <itunes:explicit>False</itunes:explicit>
 
     <item>
       <title>Intervista impossibile a Max Planck</title>
