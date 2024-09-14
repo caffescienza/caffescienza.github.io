@@ -66,5 +66,18 @@
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia601508.us.archive.org/28/items/podcast-landau/podcast%20landau.mp3" type="audio/mpeg" length="10810086"/>
     </item>
+    
+    <item>
+      <title>Intervista impossibile a Ludwing Boltzmann</title>
+      <itunes:image href="https://caffescienza.github.io/Boltzmann.jpg" />
+      <description>
+        Intervista impossibile a Ludwing Boltzmann RadioMoka S8E11 13 gennaio 2018 (voci di Giovanna Pacini e Gianluca Martelloni). Caffè-Scienza Firenze.
+      </description>
+      <link>https://archive.org/details/podcast-boltzmann</link>
+      <guid>https://archive.org/details/podcast-boltzmann</guid>
+      <pubDate>Thu, 14 Sep 2024 18:53:54 GMT</pubDate>
+      <category>audio/opensource_audio</category>
+      <enclosure url="https://ia600601.us.archive.org/31/items/podcast-boltzmann/podcast%20boltzmann.mp3" type="audio/mpeg" length="10810086"/>
+    </item>
   </channel>
 </rss>
