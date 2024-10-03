@@ -92,5 +92,18 @@
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia902209.us.archive.org/33/items/podcast-galileo_202409/podcast%20galileo.mp3" type="audio/mpeg" length="10810086"/>
     </item>
+    
+    <item>
+      <title>Intervista impossibile a Michael Faraday</title>
+      <itunes:image href="https://caffescienza.github.io/Faraday.jpg" />
+      <description>
+        Intervista impossibile a Michael Faraday. RadioMoka S8E09 9 dicembre 2017 (voci di Giulia Cencetti e Leonardo Lenzini). Caffè-Scienza Firenze.
+      </description>
+      <link>https://archive.org/details/podcast-faraday</link>
+      <guid>https://archive.org/details/podcast-faraday</guid>
+      <pubDate>Thu, 3 Oct 2024 20:03:24 GMT</pubDate>
+      <category>audio/opensource_audio</category>
+      <enclosure url="https://ia904506.us.archive.org/3/items/podcast-faraday/podcast%20faraday.mp3" type="audio/mpeg" length="10810086"/>
+    </item>
   </channel>
 </rss>
