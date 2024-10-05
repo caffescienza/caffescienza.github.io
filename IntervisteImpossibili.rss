@@ -75,7 +75,7 @@
       </description>
       <link>https://archive.org/details/podcast-boltzmann_202409</link>
       <guid>https://archive.org/details/podcast-boltzmann_202409</guid>
-      <pubDate>Thu, 14 Sep 2024 18:53:54 GMT</pubDate>
+      <pubDate>Sat, 14 Sep 2024 18:53:54 GMT</pubDate>
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia804608.us.archive.org/22/items/podcast-boltzmann_202409/podcast%20boltzmann.mp3" type="audio/mpeg" length="10810086"/>
     </item>
@@ -88,7 +88,7 @@
       </description>
       <link>https://archive.org/details/podcast-galileo_202409</link>
       <guid>https://archive.org/details/podcast-galileo_202409</guid>
-      <pubDate>Thu, 25 Sep 2024 20:03:24 GMT</pubDate>
+      <pubDate>Wed, 25 Sep 2024 20:03:24 GMT</pubDate>
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia902209.us.archive.org/33/items/podcast-galileo_202409/podcast%20galileo.mp3" type="audio/mpeg" length="10810086"/>
     </item>
@@ -101,9 +101,21 @@
       </description>
       <link>https://archive.org/details/podcast-faraday</link>
       <guid>https://archive.org/details/podcast-faraday</guid>
-      <pubDate>Thu, 3 Oct 2024 20:03:24 GMT</pubDate>
+      <pubDate>Wed, 3 Oct 2024 20:03:24 GMT</pubDate>
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia904506.us.archive.org/3/items/podcast-faraday/podcast%20faraday.mp3" type="audio/mpeg" length="10810086"/>
     </item>
-  </channel>
+    
+    <item>
+      <title>Intervista impossibile a Sadi Carnot</title>
+      <itunes:image href="https://caffescienza.github.io/Carnot.jpg" />
+      <description>
+        Intervista impossibile a Sadi Carnot. RadioMoka S8E27 5 Maggio 2018 (voci di Giulia Cencetti e Franco Bagnoli). Caffè-Scienza Firenze.
+      </description>
+      <link>https://archive.org/details/podcast-carnot</link>
+      <guid>https://archive.org/details/podcast-carnot</guid>
+      <pubDate>Sat, 5 Oct 2024 20:32:24 GMT</pubDate>
+      <category>audio/opensource_audio</category>
+      <enclosure url="https://ia600405.us.archive.org/13/items/podcast-carnot/podcast%20carnot.mp3" type="audio/mpeg" length="10810086"/>
+    </item>  </channel>
 </rss>
