@@ -118,11 +118,13 @@
       <category>audio/opensource_audio</category>
       <enclosure url="https://ia600405.us.archive.org/13/items/podcast-carnot/podcast%20carnot.mp3" type="audio/mpeg" length="11663284"/>
     </item>  
+    
     <item>
       <title>Intervista impossibile ad Archimede di Siracusa</title>
+      <itunes:image href="https://caffescienza.github.io/Archimede.jpg" />
       <description>
       Intervista impossibile ad Archimede di Siracusa. Versione lunga (voci di Giovanna Pacini e Franco Bagnoli). Caffè-Scienza Firenze
-      </descritpion>
+      </description>
       <link>https://archive.org/details/podcast-archimede</link>
       <guid>https://archive.org/details/podcast-archimede</guid>
       <pubDate>Tue, 23 Dec 2025 12:31:43 GMT</pubDate>
