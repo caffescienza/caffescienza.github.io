@@ -36,7 +36,7 @@
       <guid>https://archive.org/details/ImpossibleInterview-Planck</guid>
       <pubDate>Wed, 07 Aug 2024 14:48:29 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <enclosure url="https://ia600600.us.archive.org/22/items/ImpossibleInterview-Planck/podcast%20planck.mp3" type="audio/mpeg" length="12126589"/>
+      <enclosure url="https://ia600600.us.archive.org/22/items/ImpossibleInterview-Planck/podcast%20planck.mp3" type="audio/mpeg" length="11585507"/>
       <itunes:duration>12:38</itunes:duration>
     </item>
 
@@ -51,7 +51,7 @@
       <pubDate>Thu, 08 Aug 2024 08:36:56 GMT</pubDate>
       <category>audio/opensource_audio</category>
       <itunes:duration>10:32</itunes:duration>
-      <enclosure url="https://ia601407.us.archive.org/12/items/podcast-oppenheimer/podcast%20oppenheimer.mp3" type="audio/mpeg" length="10918106"/>
+      <enclosure url="https://ia601407.us.archive.org/12/items/podcast-oppenheimer/podcast%20oppenheimer.mp3" type="audio/mpeg" length="10420992"/>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <guid>https://archive.org/details/podcast-galileo_202409</guid>
       <pubDate>Wed, 25 Sep 2024 20:03:24 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <enclosure url="https://ia902209.us.archive.org/33/items/podcast-galileo_202409/podcast%20galileo.mp3" type="audio/mpeg" length="10810086"/>
+      <enclosure url="https://ia902209.us.archive.org/33/items/podcast-galileo_202409/podcast%20galileo.mp3" type="audio/mpeg" length="13727143"/>
     </item>
     
     <item>
@@ -103,7 +103,7 @@
       <guid>https://archive.org/details/podcast-faraday</guid>
       <pubDate>Wed, 3 Oct 2024 20:03:24 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <enclosure url="https://ia904506.us.archive.org/3/items/podcast-faraday/podcast%20faraday.mp3" type="audio/mpeg" length="10810086"/>
+      <enclosure url="https://ia904506.us.archive.org/3/items/podcast-faraday/podcast%20faraday.mp3" type="audio/mpeg" length="13727143"/>
     </item>
     
     <item>
@@ -116,6 +116,18 @@
       <guid>https://archive.org/details/podcast-carnot</guid>
       <pubDate>Sat, 5 Oct 2024 20:32:24 GMT</pubDate>
       <category>audio/opensource_audio</category>
-      <enclosure url="https://ia600405.us.archive.org/13/items/podcast-carnot/podcast%20carnot.mp3" type="audio/mpeg" length="10810086"/>
-    </item>  </channel>
+      <enclosure url="https://ia600405.us.archive.org/13/items/podcast-carnot/podcast%20carnot.mp3" type="audio/mpeg" length="11663284"/>
+    </item>  
+    <item>
+      <title>Intervista impossibile ad Archimede di Siracusa</title>
+      <description>
+      Intervista impossibile ad Archimede di Siracusa. Versione lunga (voci di Giovanna Pacini e Franco Bagnoli). Caffè-Scienza Firenze
+      </descritpion>
+      <link>https://archive.org/details/podcast-archimede</link>
+      <guid>https://archive.org/details/podcast-archimede</guid>
+      <pubDate>Tue, 23 Dec 2025 12:31:43 GMT</pubDate>
+      <category>audio/opensource_audio</category>
+      <enclosure url="https://ia801706.us.archive.org/16/items/podcast-archimede/podcast%20archimede.mp3" type="audio/mpeg" length="51704137"/>
+  </item>
+  </channel>
 </rss>
